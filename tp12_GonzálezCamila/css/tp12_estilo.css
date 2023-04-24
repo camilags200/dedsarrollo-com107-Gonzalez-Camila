@@ -1,0 +1,14 @@
+#miDiv {
+    width: 800px;
+    height: 70px;
+    border: 1px solid black;
+  }
+  #contenido {
+    background-color: #6c757d;
+    padding: 20px;
+    height: 300px;
+  }
+  #imagen {
+    display: none;
+    height: 300px;
+  }
